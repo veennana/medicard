@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Medicard</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_first_page">FirstPage</string>
+    <string name="title_activity_sign_up_page">SignUpPage</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/personalData"
+            android:icon="@drawable/personal"
+            android:title="Personal Data" />
+
+    </group>
+
+    <item android:title="Medical">
+        <menu>
+            <item
+                android:id="@+id/medicaldata"
+                android:icon="@drawable/medical"
+                android:title="Medical Data" />
+            <item
+                android:id="@+id/checkup"
+                android:icon="@drawable/checkup"
+                android:title="Check Up History" />
+            <item
+                android:id="@+id/medicationhistory"
+                android:icon="@drawable/medication"
+                android:title="Medication History" />
+            <item
+                android:id="@+id/surgicalhistory"
+                android:icon="@drawable/surgical"
+                android:title="Surgical History" />
+
+        </menu>
+
+    </item>
+
+
+</menu>

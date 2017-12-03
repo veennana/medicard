@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20sp">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Name: Juan Dela Cruz"
+        android:textSize="24sp"
+        android:paddingBottom="5sp"
+        android:paddingTop="5sp"
+        />
+
+    <TextView
+        android:id="@+id/tv3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Age: 21"
+        android:textSize="24sp"
+        android:paddingBottom="5sp"
+        android:paddingTop="5sp" />
+    <TextView
+        android:id="@+id/tv4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Birthday:Dec. 25, 1996"
+        android:textSize="24sp"
+        android:paddingBottom="5sp"
+        android:paddingTop="5sp" />
+
+    <TextView
+        android:id="@+id/tv5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Contact #: 09506329999"
+        android:textSize="24sp"
+        android:paddingBottom="5sp"
+        android:paddingTop="5sp" />
+
+    <TextView
+        android:id="@+id/tv6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Email:delacruz.juan@gmail.com"
+        android:textSize="24sp"
+        android:paddingBottom="30sp"
+        android:paddingTop="5sp" />
+
+    <TextView
+        android:id="@+id/tv7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="Contact Person in Case of Emergency"
+        android:textSize="24sp"
+        android:paddingBottom="5sp"
+        android:paddingTop="5sp" />
+
+    <TextView
+        android:id="@+id/tv8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Name: Maria Clara"
+        android:textSize="24sp"
+        android:paddingBottom="5sp"
+        android:paddingTop="5sp" />
+
+    <TextView
+        android:id="@+id/tv9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Number: 09509996324"
+        android:textSize="24sp"
+        android:paddingBottom="5sp"
+        android:paddingTop="5sp"/>
+
+</LinearLayout>
